@@ -1,3 +1,5 @@
+<div align="center">
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devayush Rout!!
 =====================================================================================================================================
 
@@ -6,7 +8,7 @@ Artificial Intelligence & Machine Learning
 ![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJqb3BwenhkczMwc2R1a243aHJqb2wzaTgwMm16eHBsMmZyYW44OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif)
 
 I'm a passionate AI & Machine Learning Enthusiast, currently exploring the intersection of technology and creativity. When I'm not coding, you can find me "Dreaming of the day when I can automate my coding tasks with Al.".
-
+</div>
 * 🌍  I'm based in India
 * ✉️  You can contact me at [devayushrout@gmail.com](mailto:devayushrout@gmail.com)
 * 🧠  I'm learning NLP frameworks and generative models and would be starting on IoT projects too.
@@ -18,6 +20,7 @@ I'm a passionate AI & Machine Learning Enthusiast, currently exploring the inter
 - 🧠 Interested in Explainable AI, Cloud Computing, and Embedded Learning.
 - 🌐 Exploring IoT and ML for impactful solutions
 
+<div align="center">
 
 ### Skills
 
@@ -44,7 +47,7 @@ I'm a passionate AI & Machine Learning Enthusiast, currently exploring the inter
 
 <div width="100%" align="center"><a href="https://github.com/ayushcodes13/HYDRAN" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushcodes13&repo=HYDRAN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-
+</div>
 
 ---
 
