@@ -54,7 +54,7 @@ I'm a passionate AI & Machine Learning Enthusiast, currently exploring the inter
 
 ### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/ayushcodes13/HYDRAN" align="left"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushcodes13&repo=HYDRAN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="50%" align="center"><a href="https://github.com/ayushcodes13/HYDRAN" align="left"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushcodes13&repo=HYDRAN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 </div>
 
 ---
@@ -75,3 +75,5 @@ I'm a passionate AI & Machine Learning Enthusiast, currently exploring the inter
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Let's connect and build something amazing together!</em>
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Magic" />
 </div>
+
+---
