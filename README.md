@@ -1,21 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devayush Rout
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devayush Rout!!
 =====================================================================================================================================
 
 Artificial Intelligence & Machine Learning
 ------------------------------------------
 ![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJqb3BwenhkczMwc2R1a243aHJqb2wzaTgwMm16eHBsMmZyYW44OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif)
 
-I'm a passionate \*\*AI & Machine Learning Enthusiast\*\*, currently exploring the intersection of \*\*technology and creativity\*\*. When I'm not coding, you can find me dreaming up innovative ideas.
+I'm a passionate AI & Machine Learning Enthusiast, currently exploring the intersection of technology and creativity. When I'm not coding, you can find me "Dreaming of the day when I can automate my coding tasks with Al.".
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [devayushrout@gmail.com](mailto:devayushrout@gmail.com)
-* 🧠  I'm learning NLP frameworks and generative models.
+* 🧠  I'm learning NLP frameworks and generative models and would be starting on IoT projects too.
 * 🤝  I'm open to collaborating on any machine learning or deep learning models.
 * ⚡  Chill guy maybe
 
 ## 🌟 **What I Do**
-- 🎓 **Student of BTech in AI and ML** | Coursera Specializations Completed
-- 🧠 Interested in Explainable AI, Cloud Computing, and Embedded Learning
+- 🎓 Student of BTech in AI and ML
+- 🧠 Interested in Explainable AI, Cloud Computing, and Embedded Learning.
 - 🌐 Exploring IoT and ML for impactful solutions
 
 
