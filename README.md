@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Artificial Intelligence & Machine Learning
 ------------------------------------------
-![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJqb3BwenhkczMwc2R1a243aHJqb2wzaTgwMm16eHBsMmZyYW44OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif)
+![Banner](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE3OWlsOHNpeHZpaGh2NXE5ZXVjcmVrenhoMGR1cjFvbWllenRoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lT4n6ylgZnDY88/giphy.gif)
 
 I'm a passionate AI & Machine Learning Enthusiast, currently exploring the intersection of technology and creativity. When I'm not coding, you can find me "Dreaming of the day when I can automate my coding tasks with Al.".
 
