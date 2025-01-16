@@ -64,9 +64,8 @@ I'm a passionate AI & Machine Learning Enthusiast, currently exploring the inter
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300"/>
 </p>
-<!-- Fun Footer -->
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Let's connect and build something amazing together!</em>
-Show Image
+https://profile-counter.glitch.me/ayushcodes13/count.svg. 
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Magic" />
 </div>
