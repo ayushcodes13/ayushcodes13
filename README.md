@@ -66,7 +66,7 @@ I'm a passionate AI & Machine Learning Enthusiast, currently exploring the inter
 
 ## 🎉 **Fun Facts**
 - 🚀 I love creating futuristic AI systems.
-- 💡 My motto: "We make assistants, not doctors."
+- 💡 Wouldn't mind a peer!
 - 🌍 Always curious to solve real-world problems with AI.
 
 
