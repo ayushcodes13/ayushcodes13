@@ -13,6 +13,7 @@ I'm a passionate AI & Machine Learning Enthusiast, currently exploring the inter
 </div>
 
 * 🌍  I'm based in India
+* ✉️  You can contact me at [devayushrout@gmail.com](mailto:devayushrout@gmail.com)
 * 🧠  I'm learning NLP frameworks and generative models and would be starting on IoT projects too.
 * 🤝  I'm open to collaborating on any machine learning or deep learning models.
 * ⚡  Chill guy maybe
