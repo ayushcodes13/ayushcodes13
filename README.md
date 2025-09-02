@@ -56,22 +56,6 @@ I'm a passionate AI & Machine Learning Enthusiast, currently exploring the inter
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushcodes13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushcodes13&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-
-## Top Repositories
-
-<div width="50%" align="center">
-  <a href="https://github.com/ayushcodes13/HYDRAN" align="left">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushcodes13&repo=HYDRAN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-
-  <a href="https://github.com/ayushcodes13/Machine-Learning-Practice" align="right">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushcodes13&repo=Machine-Learning-Practice&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
-
-
 
 ---
 
