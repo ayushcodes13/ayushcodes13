@@ -23,7 +23,6 @@ I'm a passionate AI & Machine Learning Enthusiast, currently exploring the inter
 - 🧠 Interested in Explainable AI, Cloud Computing, and Embedded Learning.
 - 🌐 Exploring IoT and ML for impactful solutions
 - 🧠 Interested in AI agents, machine learning, deep learning, reinforcement learning, explainable AI (XAI), cloud computing, blockchain, embedded learning, and autonomous systems.
-- 🌐 Exploring IoT and AI for impactful solutions
 
 ---
 <div align="center">
