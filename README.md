@@ -7,22 +7,27 @@ Artificial Intelligence Engineer
 ------------------------------------------
 ![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Rnc3EwZDZ4ajNmN3p4ZmJlcjcxdzB2OWQxc3NmMGRwZTljb2E0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif)
 
+## hey, i'm ayush 👋
+
 i work on applied AI systems with a focus on reliability, retrieval, and real-world constraints.
 
-most of my projects are built around practical problems — messy data, incomplete information, and systems that need to behave predictably outside of notebooks. i’m especially interested in how AI systems fail, and what it takes to make them safer and more dependable in real use.
+most of my projects deal with messy data, incomplete information, and AI systems that need to behave predictably outside notebooks. i care less about flashy demos and more about whether a system can be trusted when it actually matters.
 
-right now, i’m building and documenting end-to-end projects in areas like:
+### what i'm working on 🧠
 - retrieval-augmented generation and decision-support systems  
 - multimodal setups where vision and language have clear roles  
 - applied ML projects where accuracy and traceability matter  
 
-i’m currently completing a btech in AI & ML and spending most of my time shipping projects, writing clear documentation, and learning through failure rather than tutorials.
+### background 🎓
+- btech in AI & ML  
+- learning by building and documenting systems end to end, not by following tutorials  
 
-📍 based in india  
-📫 devayushrout.work@gmail.com  
+### collaboration 🤝
+i’m open to collaborating on applied AI or ML projects where the goal is to ship something real and defensible.
 
-open to collaborating on applied AI or ML projects where the goal is to build something that actually runs and can be defended.
-
+### contact 📫
+- based in india  
+- email: devayushrout.work@gmail.com
 
 ---
 <div align="center">
