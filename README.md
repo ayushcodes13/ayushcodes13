@@ -7,22 +7,22 @@ Artificial Intelligence Engineer
 ------------------------------------------
 ![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Rnc3EwZDZ4ajNmN3p4ZmJlcjcxdzB2OWQxc3NmMGRwZTljb2E0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif)
 
-I'm a passionate AI & Machine Learning Enthusiast, currently exploring the intersection of technology and creativity. When I'm not coding, you can find me "Dreaming of the day when I can automate my coding tasks with Al.".
+i work on applied AI systems with a focus on reliability, retrieval, and real-world constraints.
 
+most of my projects are built around practical problems — messy data, incomplete information, and systems that need to behave predictably outside of notebooks. i’m especially interested in how AI systems fail, and what it takes to make them safer and more dependable in real use.
 
-</div>
+right now, i’m building and documenting end-to-end projects in areas like:
+- retrieval-augmented generation and decision-support systems  
+- multimodal setups where vision and language have clear roles  
+- applied ML projects where accuracy and traceability matter  
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [devayushrout.work@gmail.com](mailto:devayushrout.work@gmail.com)
-* 🧠  I'm learning NLP frameworks and generative models and would be starting on IoT projects too.
-* 🤝  I'm open to collaborating on any machine learning or deep learning models.
-* ⚡  Chill guy maybe
+i’m currently completing a btech in AI & ML and spending most of my time shipping projects, writing clear documentation, and learning through failure rather than tutorials.
 
-## 🌟 **What I Do**
-- 🎓 Student of BTech in AI and ML
-- 🧠 Interested in Explainable AI, Cloud Computing, and Embedded Learning.
-- 🌐 Exploring IoT and ML for impactful solutions
-- 🧠 Interested in AI agents, machine learning, deep learning, reinforcement learning, explainable AI (XAI), cloud computing, blockchain, embedded learning, and autonomous systems.
+📍 based in india  
+📫 devayushrout.work@gmail.com  
+
+open to collaborating on applied AI or ML projects where the goal is to build something that actually runs and can be defended.
+
 
 ---
 <div align="center">
