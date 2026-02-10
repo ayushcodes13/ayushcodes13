@@ -1,8 +1,10 @@
 <div align="center">
 
 Hey, Devayush this side!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+=====================================================================================================================================
 
 Artificial Intelligence Engineer
+------------------------------------------
 ![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Rnc3EwZDZ4ajNmN3p4ZmJlcjcxdzB2OWQxc3NmMGRwZTljb2E0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif)
 
 </div>
