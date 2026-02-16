@@ -29,9 +29,9 @@ i’m open to collaborating on applied AI or ML projects where the goal is to sh
 - email: devayushrout.work@gmail.com
 
 ---
-<div align="center"> 
+> ## ***Tech Stack***
 
-## Tech Stack
+<div align="center"> 
 
 | Category | Technologies |
 |----------|--------------|
