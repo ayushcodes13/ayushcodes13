@@ -28,7 +28,11 @@ i’m open to collaborating on applied AI or ML projects where the goal is to sh
 - based in india  
 - email: devayushrout.work@gmail.com
 
+
+
 ---
+
+
 > ## ***Tech Stack***
 
 <div align="center"> 
