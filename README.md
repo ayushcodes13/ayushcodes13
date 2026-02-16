@@ -32,29 +32,6 @@ i’m open to collaborating on applied AI or ML projects where the goal is to sh
 ---
 <div align="center">
 
-### Brainstorm for Adding More AI Model Services
-
-Based on your request to include OpenRouter (a routing service for accessing multiple LLM providers via a unified API) and Ollama (a tool for running LLMs locally with easy setup and GPU support), I've brainstormed additional similar services. Drawing from 2026 trends (e.g., from YouTube breakdowns like "The Only AI Tools You Need to Learn in 2026," Medium articles on top AI tools, Coursera insights on AI trends, and Reddit discussions on AI engineering roadmaps), the focus is on production-ready, accessible AI model services that applied AI engineers commonly use for inference, local development, and multi-provider integration. Key trends include agentic AI, efficient local/inference runtimes, and unified APIs to reduce vendor lock-in.
-
-1. **Rationale for Additions**:
-   - **API Routing and Multi-Provider Services** (like OpenRouter): These allow seamless switching between models from OpenAI, Anthropic, Google, etc., optimizing for cost, speed, and availability. Popular in 2026 for scalable apps.
-   - **Local and Inference Runtimes** (like Ollama): Tools for running models on local hardware or optimized servers, crucial for privacy, low-latency prototyping, and edge deployment. With hardware like NVIDIA GPUs advancing, local tools are booming.
-   - **Emerging Trends**: Agentic workflows (e.g., via OpenAI Agents SDK), multimodal models (e.g., Gemini), and fast inference platforms (e.g., Fireworks AI). Avoid bloat—focus on 3-5 high-impact additions per category.
-   - **Balance**: Integrate into existing categories (mainly LLM & AI Systems). Use accurate Shields.io badges based on web searches (e.g., Ollama is black #000000, OpenRouter is slate #94A3B8). If you've used these, great; otherwise, add only what's relevant to your experience.
-   - **Gaps**: Your stack is strong on frameworks but lighter on model hosting/services. Adding these makes it more "applied" (e.g., for real-world deployment).
-
-2. **Potential Additions by Category**:
-   - **LLM & AI Systems**: OpenRouter, Ollama, Gemini (Google's multimodal LLM), Mistral AI (efficient open models), Together AI (cloud hosting for open models), Fireworks AI (fast inference API). These complement existing ones like OpenAI and Claude.
-   - **Retrieval & Data**: No major changes, but if needed, add Chroma (vector DB) for local similarity search.
-   - **Deployment & Infra**: Already has BentoML; could add Triton Inference Server for optimized serving.
-   - **Other Categories**: No big shifts, but ensure badges are consistent (for-the-badge style, accurate colors/logos).
-
-3. **Pros/Cons of Additions**:
-   - **Pros**: Shows versatility in local/cloud hybrid setups, aligns with 2026 demands for cost-efficient AI (e.g., OpenRouter reduces API costs by 50-70% via routing). Makes your profile stand out for roles in AI product engineering.
-   - **Cons**: Too many could look scattered—limit to 4-6 new ones. Prioritize based on your actual usage (e.g., if you use Ollama for prototyping, highlight it).
-
-Now, applying this, I've updated the table with OpenRouter, Ollama, and a few similar high-relevance services (Gemini, Mistral AI, Together AI, Fireworks AI). Badge colors are pulled from reliable sources (e.g., Shields.io examples). This keeps categories balanced.
-
 ## Tech Stack
 
 | Category | Technologies |
