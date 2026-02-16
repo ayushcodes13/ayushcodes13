@@ -6,7 +6,7 @@
 
 </div>
 
-> ***About Me***
+> ## ***About Me***
 
 i work on applied AI systems with a focus on reliability, retrieval, and real-world constraints.
 
