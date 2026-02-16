@@ -1,8 +1,8 @@
 <div align="center">
 
-# hey, i’m Devayush. i build systems with llms 
-
 ![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Rnc3EwZDZ4ajNmN3p4ZmJlcjcxdzB2OWQxc3NmMGRwZTljb2E0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif)
+
+# hey, i’m Devayush. i build systems with llms 
 
 </div>
 
