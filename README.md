@@ -6,6 +6,8 @@
 
 </div>
 
+> ***About Me***
+
 i work on applied AI systems with a focus on reliability, retrieval, and real-world constraints.
 
 most of my projects deal with messy data, incomplete information, and AI systems that need to behave predictably outside notebooks. i care less about flashy demos and more about whether a system can be trusted when it actually matters.
