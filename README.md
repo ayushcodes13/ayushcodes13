@@ -65,7 +65,7 @@ i’m open to collaborating on applied AI or ML projects where the goal is to sh
 ## 🎉 **Fun Facts**
 - 🚀 I love creating futuristic AI systems.
 - 💡 Wouldn't mind a peer!
-- 🌍 Always curious to solve
+- 🌍 Always 
 
 
 --- 
