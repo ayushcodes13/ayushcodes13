@@ -54,7 +54,7 @@ i’m open to collaborating on applied AI or ML projects where the goal is to sh
 
 
 
-> ## My GitHub Stats
+> ## ***My GitHub Stats***
 
 <div align="center"> 
 
