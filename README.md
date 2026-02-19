@@ -50,7 +50,7 @@ i’m open to collaborating on applied AI or ML projects where the goal is to sh
 ---
 
 
-## My GitHub Stats
+> ## My GitHub Stats
 
 <a href="http://www.github.com/ayushcodes13">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushcodes13&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
