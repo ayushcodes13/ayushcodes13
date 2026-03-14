@@ -78,4 +78,4 @@ i’m open to collaborating on applied AI or ML projects where the goal is to sh
 <div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Let's connect and build something amazing together!</em>
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Magic" />
-</div>
+
