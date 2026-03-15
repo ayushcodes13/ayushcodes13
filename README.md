@@ -74,4 +74,4 @@ i’m open to collaborating on applied AI or ML projects where the goal is to sh
 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300"/>
-</p>
+
