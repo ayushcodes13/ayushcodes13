@@ -72,3 +72,7 @@ i’m open to collaborating on applied AI or ML projects where the goal is to sh
   
   
   >
+
+
+
+
