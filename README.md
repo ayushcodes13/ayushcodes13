@@ -1,9 +1,5 @@
 <div align="center">
 
-### contact 📫
-- based in india  
-- email: devayushrout.work@gmail.com
-
 
 
 ---
