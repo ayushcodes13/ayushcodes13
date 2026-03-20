@@ -1,6 +1,6 @@
 # hey, i'm Ayush 👋
 
-i build AI systems that actually do something useful — not chatbots, not wrappers, not "chat with your PDF" demos.
+i build AI systems that actually do something useful - not chatbots, not wrappers, not "chat with your PDF" demos.
 
 when i'm not obsessing over retrieval pipelines and document intelligence systems, i'm probably:
 
