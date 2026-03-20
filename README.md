@@ -1,15 +1,4 @@
-<div align="center">
 
-
-
----
-
-
-> ## ***Tech Stack***
-
-<div align="center"> 
-
-| Category | Technologies |
 |----------|--------------|
 | 🙋‍♂️ **Core Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 | 🌐 **Foundation Model Providers** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-CD5C5C?style=for-the-badge&logo=anthropic&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-000000?style=for-the-badge&logo=mistral&logoColor=white) ![Together AI](https://img.shields.io/badge/Together%20AI-FF4500?style=for-the-badge&logo=together&logoColor=white) ![Fireworks AI](https://img.shields.io/badge/Fireworks%20AI-FF0000?style=for-the-badge&logo=fireworks&logoColor=white) ![Groq Cloud](https://img.shields.io/badge/Groq%20Cloud-FF0000?style=for-the-badge&logo=groq&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-94A3B8?style=for-the-badge&logo=openrouter&logoColor=white) |
