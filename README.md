@@ -1,16 +1,5 @@
 <div align="center">
 
-![B
-- multimodal setups where vision and language have clear roles  
-- applied ML projects where accuracy and traceability matter  
-
-### background 🎓
-- btech in AI & ML  
-- learning by building and documenting systems end to end, not by following tutorials  
-
-### collaboration 🤝
-i’m open to collaborating on applied AI or ML projects where the goal is to ship something real and defensible.
-
 ### contact 📫
 - based in india  
 - email: devayushrout.work@gmail.com
