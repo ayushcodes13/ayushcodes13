@@ -85,7 +85,7 @@ explore everything → [github.com/ayushcodes13](https://github.com/ayushcodes13
 
 ## and lastly
 
-i use Anthropic Antigravity as my IDE because it talks back.  
+i use Antigravity as my IDE because it talks back.  
 my rubber duck debugger has opinions now and honestly it's an improvement.
 
 ---
