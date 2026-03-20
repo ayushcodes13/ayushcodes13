@@ -53,7 +53,7 @@ before I got obsessed with applied systems, I did proper research:
 - **AI Cold Calling System** — fully automated outbound calling workflow. AI places calls, delivers a human-like pitch, handles live responses, and updates CRM records in real time  
   `Voice AI · CRM Integration · Fully Automated`
 
-explore everything → [github.com/ayushcodes13](https://github.com/ayushcodes13)
+explore more about me → [Portfolio](https://devayush-portfolio.vercel.app/)
 
 ---
 
