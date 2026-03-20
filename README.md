@@ -1,13 +1,6 @@
 <div align="center">
 
-![Ban
-
-i work on applied AI systems with a focus on reliability, retrieval, and real-world constraints.
-
-most of my projects deal with messy data, incomplete information, and AI systems that need to behave predictably outside notebooks. i care less about flashy demos and more about whether a system can be trusted when it actually matters.
-
-### what i'm working on 🧠
-- retrieval-augmented generation and decision-support systems  
+![B
 - multimodal setups where vision and language have clear roles  
 - applied ML projects where accuracy and traceability matter  
 
