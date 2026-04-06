@@ -51,7 +51,7 @@ before I got obsessed with applied systems, I did proper research:
   `Voice Agent · n8n · Personal Automation` [Demo](https://www.youtube.com/watch?v=TNvFyeE1ILY)
 
 - **AI Cold Calling System** — fully automated outbound calling workflow. AI places calls, delivers a human-like pitch, handles live responses, and updates CRM records in real time  
-  `Voice AI · CRM Integration · Fully Automated` [Demo]([https://www.youtube.com/watch?v=TNvFyeE1ILY])
+  `Voice AI · CRM Integration · Fully Automated` [Demo](https://www.youtube.com/watch?v=TNvFyeE1ILY)
 
 explore more about me → [Portfolio](https://devayushrout.me)
 
