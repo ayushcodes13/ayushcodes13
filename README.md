@@ -45,7 +45,7 @@ before I got obsessed with applied systems, I did proper research:
   `Multimodal · Compliance-grounded · Shipped`
 
 - **AI Client Acquisition System** — end-to-end sales pipeline. finds leads, writes personalised outreach, sends it, follows up, makes cold calls with a human-like voice, updates the CRM. fully automated  
-  `n8n · LLM Orchestration · End-to-end`
+  `n8n · LLM Orchestration · End-to-end` [Demo]([https://policy-intelligence-system.streamlit.app/](https://youtu.be/9uEhwPiAWko?si=0ITrcStxKpb42Ylt))
 
 - **Siri + n8n Personal Assistant** — turned Siri from a basic voice assistant into a domain-specific AI agent that handles emails, calendar, and web research through voice  
   `Voice Agent · n8n · Personal Automation`
