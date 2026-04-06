@@ -16,7 +16,7 @@ when i'm not obsessing over retrieval pipelines and document intelligence system
 Employees ask HR the same questions every day. HR gets annoyed. The answer is always buried in some doc nobody reads. I built a RAG system that answers policy questions in seconds, with source citations and access controls. Governance-controlled, version-aware, zero hallucination tolerance.  
 `Live demo available · Targeting regulated Indian companies` · [try it live](https://policy-intelligence-system.streamlit.app/)
 
-📄 **Document Comparison & Compliance Engine** *(in progress)*  
+📄 **[Internal Policy Intelligence System](https://github.com/ayushcodes13/Internal-Policy-Intelligence-System)**  
 Compliance teams manually read two versions of a 40-page contract to find what changed and whether it's a violation. That's genuinely someone's job. I'm building the system that does it in under a minute.  
 `Architecture complete · Active build`
 
