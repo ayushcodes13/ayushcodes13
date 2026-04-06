@@ -16,7 +16,7 @@ when i'm not obsessing over retrieval pipelines and document intelligence system
 Employees ask HR the same questions every day. HR gets annoyed. The answer is always buried in some doc nobody reads. I built a RAG system that answers policy questions in seconds, with source citations and access controls. Governance-controlled, version-aware, zero hallucination tolerance.  
 `Live demo available · Targeting regulated Indian companies` · [try it live](https://policy-intelligence-system.streamlit.app/)
 
-📄 **[Tender Intelligence Engine  ](https://github.com/ayushcodes13/Internal-Policy-Intelligence-System)**  
+📄 **[Tender Intelligence Engine  ](https://github.com/ayushcodes13/tendermatch)**  
 Procurement opportunities are scattered across CPPP, IITs, and institute portals, making it easy for sales teams to miss high-value tenders. I built an AI-driven tender intelligence pipeline that monitors multiple sources in real time, filters noise, detects fresh opportunities, and maps each tender to the most relevant manufacturers. Instead of manual portal hunting, teams get a ranked list of actionable leads delivered daily.  
 `Multi-source scraping · semantic manufacturer matching · sales-ready intelligence reports`
 
