@@ -28,7 +28,7 @@ Procurement opportunities are scattered across CPPP, IITs, and institute portals
 
 before I got obsessed with applied systems, I did proper research:
 
-- **HYDRAN (closed-source)** — brain tumor detection model that outperformed all benchmark architectures. yes, it's a cool acronym, no, I will not apologise for that 
+- **HYDRAN (closed-source)** — brain tumor detection model that outperformed all benchmark architectures. yes, it's a cool acronym, no, I will not apologise for that
   `Deep Learning · Medical Imaging · Research-grade`
 
 - **[XGBoost Stock Trading Pipeline](https://github.com/ayushcodes13/TradeSync-ML-vs-Rule-Based-Trading-System)** — compared ML predictions vs rule-based technical analysis on Indian equities. spoiler: both lose sometimes  
