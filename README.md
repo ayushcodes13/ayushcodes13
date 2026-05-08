@@ -75,8 +75,6 @@ explore more about me → [Portfolio](https://devayushrout.me)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-0d1117?style=flat-square&logo=openrouter&logoColor=white)
 
 ---
-dnsjdbnjsbjdbajndjan
-
 
 ## professionally
 
