@@ -54,7 +54,6 @@ Brain tumor segmentation research system focused on medical imaging workflows an
 
 `Medical Imaging · Deep Learning · Research Systems`
 
----
 
 ### → [MedWaste Guardian](https://github.com/ayushcodes13/MedWaste-Guardian)
 
@@ -62,7 +61,6 @@ Multimodal biomedical waste compliance system combining computer vision, retriev
 
 `Multimodal AI · Compliance Workflows · Retrieval-Augmented Systems`
 
----
 
 ### → [AURA](https://github.com/ayushcodes13/AURA)
 
