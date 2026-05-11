@@ -25,7 +25,6 @@ Governance-gated enterprise knowledge system designed for policy retrieval workf
 
 `RAG · Governance · Retrieval Evaluation · Enterprise Knowledge Systems`
 
----
 
 ### [TenderMatch](https://github.com/ayushcodes13/tendermatch)
 
