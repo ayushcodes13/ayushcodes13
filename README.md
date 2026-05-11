@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/ayushcodes13?tab=repositories">
+    <img src="https://github.com/user-attachments/assets/52bcfbc1-220b-470a-849a-83da6883d7b4" alt="Devayush Banner" />
+  </a>
+</p>
+
 # hey, i'm Ayush 👋
 
 building retrieval systems, workflow intelligence, and evaluation-aware AI infrastructure.
