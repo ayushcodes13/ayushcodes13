@@ -26,7 +26,7 @@ Governance-gated enterprise knowledge system designed for policy retrieval workf
 `RAG · Governance · Retrieval Evaluation · Enterprise Knowledge Systems`
 
 
-### [TenderMatch](https://github.com/ayushcodes13/tendermatch)
+### → [TenderMatch](https://github.com/ayushcodes13/tendermatch)
 
 Procurement intelligence pipeline that ingests fragmented tender data, filters operational noise, and ranks opportunities using semantic retrieval and workflow-aware scoring.
 
@@ -38,7 +38,7 @@ Procurement intelligence pipeline that ingests fragmented tender data, filters o
 `Workflow Intelligence · Semantic Retrieval · Procurement Systems`
 
 
-### Tender Intelligence System *(building)*
+### → Tender Intelligence System *(building)*
 
 Research-aware operational pipeline focused on contextual opportunity mapping and evidence-grounded outbound workflows for scientific equipment ecosystems.
 
@@ -48,7 +48,7 @@ Research-aware operational pipeline focused on contextual opportunity mapping an
 
 ## exploratory systems
 
-### HYDRAN *(closed-source)*
+### → HYDRAN *(closed-source)*
 
 Brain tumor segmentation research system focused on medical imaging workflows and segmentation reliability.
 
@@ -56,7 +56,7 @@ Brain tumor segmentation research system focused on medical imaging workflows an
 
 ---
 
-### [MedWaste Guardian](https://github.com/ayushcodes13/MedWaste-Guardian)
+### → [MedWaste Guardian](https://github.com/ayushcodes13/MedWaste-Guardian)
 
 Multimodal biomedical waste compliance system combining computer vision, retrieval workflows, and regulatory guidance.
 
@@ -64,7 +64,7 @@ Multimodal biomedical waste compliance system combining computer vision, retriev
 
 ---
 
-### [AURA](https://github.com/ayushcodes13/AURA)
+### → [AURA](https://github.com/ayushcodes13/AURA)
 
 Voice-first assistive AI workflow system for visually impaired and elderly users using speech and visual context understanding.
 
@@ -72,7 +72,7 @@ Voice-first assistive AI workflow system for visually impaired and elderly users
 
 ---
 
-### [Ask Krishna](https://github.com/ayushcodes13/Ask-Krishna)
+### → [Ask Krishna](https://github.com/ayushcodes13/Ask-Krishna)
 
 Retrieval-grounded conversational system built around contextual querying and structured response generation.
 
