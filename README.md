@@ -68,7 +68,6 @@ Voice-first assistive AI workflow system for visually impaired and elderly users
 
 `Multimodal Systems · Assistive AI · Voice Interfaces`
 
----
 
 ### → [Ask Krishna](https://github.com/ayushcodes13/Ask-Krishna)
 
