@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# hey, i'm Ayush 👋
+# Hey, I am Devayush!
 
 building retrieval systems, workflow intelligence, and evaluation-aware AI infrastructure.
 
