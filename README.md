@@ -14,7 +14,7 @@ most of my work focuses on operational AI systems that deal with:
 
 ## flagship systems
 
-### [Internal Policy Intelligence System](https://github.com/ayushcodes13/Internal-Policy-Intelligence-System)
+### → [Internal Policy Intelligence System](https://github.com/ayushcodes13/Internal-Policy-Intelligence-System)
 
 Governance-gated enterprise knowledge system designed for policy retrieval workflows where incorrect answers become operational liabilities.
 
