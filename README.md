@@ -56,15 +56,6 @@ Selected merged contributions to open-source projects:
 - 🧩 **[triagekit](https://github.com/zanni098/triagekit)** — Generates GitHub issue templates. Fixed generated issue configuration in [a PR](https://github.com/zanni098/triagekit/pull/27). [![stars](https://img.shields.io/github/stars/zanni098/triagekit?style=flat-square&label=★)](https://github.com/zanni098/triagekit)
 - 🧭 **[retinue](https://github.com/Retinue-OS/retinue)** — A compose-based personal-agent platform. Corrected image update steps in [a docs PR](https://github.com/Retinue-OS/retinue/pull/99). [![stars](https://img.shields.io/github/stars/Retinue-OS/retinue?style=flat-square&label=★)](https://github.com/Retinue-OS/retinue)
 
-## Contributions at a glance
-
-[![Featured open-source projects](https://img.shields.io/badge/featured%20projects-6-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayushcodes13)
-[![Merged contributions](https://img.shields.io/badge/merged%20PRs-6-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/ayushcodes13?tab=contributions)
-
-**A year of contributions**
-
-![GitHub contribution graph for ayushcodes13](https://ghchart.rshah.org/40916c/ayushcodes13)
-
 ## Writing
 
 I write about:
