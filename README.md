@@ -58,6 +58,11 @@ Selected merged contributions to open-source projects:
 
 ## Contributions at a glance
 
+[![Featured open-source projects](https://img.shields.io/badge/featured%20projects-6-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayushcodes13)
+[![Merged contributions](https://img.shields.io/badge/merged%20PRs-6-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/ayushcodes13?tab=contributions)
+
+**A year of contributions**
+
 ![GitHub contribution graph for ayushcodes13](https://ghchart.rshah.org/40916c/ayushcodes13)
 
 ## Writing
