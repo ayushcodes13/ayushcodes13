@@ -2,7 +2,7 @@
 
 # Hey, I'm Devayush 👋
 
-**Applied AI · Retrieval · Agent Reliability · Workflow Systems**
+**Applied AI · Retrieval · Agent Reliability · Workflow Systems · Evaluations · Agent Reliability ·**
 
 I build AI systems that connect models to evidence, people, and real tasks.
 
@@ -17,11 +17,6 @@ I build AI systems that connect models to evidence, people, and real tasks.
 <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,react,postgres,docker,git,github&perline=8&theme=dark" alt="Python, TypeScript, FastAPI, React, PostgreSQL, Docker, Git, GitHub" />
 
 <br/>
-
-<img src="https://img.shields.io/badge/LLMs-5B4BDB?style=for-the-badge" alt="LLMs" />
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/Agents-0F766E?style=for-the-badge" alt="Agents" />
-<img src="https://img.shields.io/badge/Evaluation-334155?style=for-the-badge" alt="Evaluation" />
 
 </div>
 
