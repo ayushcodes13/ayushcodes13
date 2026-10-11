@@ -1,12 +1,11 @@
 <div align="center">
 
 # Hey, I'm Devayush 👋
+I build AI systems that connect models to evidence, people, and real tasks.
 
 **Applied AI · Retrieval · Agent Reliability · Workflow Systems · Evaluations · Agent Reliability ·**
 
-I build AI systems that connect models to evidence, people, and real tasks.
-
-📍 New Delhi, India · Applied AI Engineer at [Bynd AI](https://bynd.ai)
+📍 New Delhi, India · Currently Applied AI Engineer at [Bynd AI](https://bynd.ai) and freelancing
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devayushrout.me-111827?style=flat-square&logo=vercel&logoColor=white)](https://devayushrout.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--rout-111827?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-rout)
@@ -87,6 +86,6 @@ I write about:
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devayushrout.me-FF5722?style=flat&logo=vercel&logoColor=white)](https://devayushrout.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--rout-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-rout)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--rout-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devayush-rout)
 [![GitHub](https://img.shields.io/badge/GitHub-ayushcodes13-181717?style=flat&logo=github&logoColor=white)](https://github.com/ayushcodes13)
 [![Email](https://img.shields.io/badge/Email-devayushrout.work%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:devayushrout.work@gmail.com)
