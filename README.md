@@ -82,6 +82,6 @@ I write about:
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devayushrout.me-FF5722?style=flat&logo=vercel&logoColor=white)](https://devayushrout.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--rout-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devayush-rout)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devayush--rout-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devayush-rout)
 [![GitHub](https://img.shields.io/badge/GitHub-ayushcodes13-181717?style=flat&logo=github&logoColor=white)](https://github.com/ayushcodes13)
 [![Email](https://img.shields.io/badge/Email-devayushrout.work%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:devayushrout.work@gmail.com)
