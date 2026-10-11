@@ -1,19 +1,12 @@
-<div align="center">
-
 # Hey, I'm Devayush 👋
+
 I build AI systems that connect models to evidence, people, and real tasks.
 
 **Applied AI · Retrieval · Agent Reliability · Workflow Systems · Evaluations · Agent Reliability ·**
 
-📍 New Delhi, India · Currently Applied AI Engineer at [Bynd AI](https://bynd.ai) and freelancing
+📍 New Delhi, India · Currently Applied AI Engineer at [Bynd AI](https://bynd.ai/) and freelancing
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,typescript,fastapi,react,postgres,docker,git,github&perline=8&theme=dark" alt="Python, TypeScript, FastAPI, React, PostgreSQL, Docker, Git, GitHub" />
-
-<br/>
-
-</div>
+![Python, TypeScript, FastAPI, React, PostgreSQL, Docker, Git, GitHub](https://skillicons.dev/icons?i=python,typescript,fastapi,react,postgres,docker,git,github&perline=8&theme=dark)
 
 ---
 
