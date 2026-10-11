@@ -7,10 +7,6 @@ I build AI systems that connect models to evidence, people, and real tasks.
 
 📍 New Delhi, India · Currently Applied AI Engineer at [Bynd AI](https://bynd.ai) and freelancing
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devayushrout.me-111827?style=flat-square&logo=vercel&logoColor=white)](https://devayushrout.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--rout-111827?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-rout)
-[![GitHub](https://img.shields.io/badge/GitHub-ayushcodes13-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/ayushcodes13)
-
 <br/>
 
 <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,react,postgres,docker,git,github&perline=8&theme=dark" alt="Python, TypeScript, FastAPI, React, PostgreSQL, Docker, Git, GitHub" />
