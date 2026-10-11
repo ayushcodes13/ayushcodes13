@@ -1,21 +1,27 @@
 <div align="center">
 
-# Devayush Rout
+# Hey, I'm Devayush 👋
 
 **Applied AI · Retrieval · Agent Reliability · Workflow Systems**
 
 I build AI systems that connect models to evidence, people, and real tasks.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devayushrout.me-111827?style=flat-square&logo=vercel&logoColor=white)](https://devayushrout.me)
+📍 New Delhi, India · Applied AI Engineer at [Bynd AI](https://bynd.ai)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-devayushrout.me-111827?style=flat-square&logo=vercel&logoColor=white)](https://devayushrout.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--rout-111827?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-rout)
 [![GitHub](https://img.shields.io/badge/GitHub-ayushcodes13-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/ayushcodes13)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AI systems](https://img.shields.io/badge/RAG%20·%20Agents%20·%20Evaluation-252A34?style=flat-square)
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,fastapi,react,postgres,docker,git,github&perline=8&theme=dark" alt="Python, TypeScript, FastAPI, React, PostgreSQL, Docker, Git, GitHub" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LLMs-5B4BDB?style=for-the-badge" alt="LLMs" />
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Agents-0F766E?style=for-the-badge" alt="Agents" />
+<img src="https://img.shields.io/badge/Evaluation-334155?style=for-the-badge" alt="Evaluation" />
 
 </div>
 
@@ -23,57 +29,70 @@ I build AI systems that connect models to evidence, people, and real tasks.
 
 ## ✦ Selected work
 
-| Project | What it does |
-|:--|:--|
-| **[CANON](https://github.com/ayushcodes13/canon)** | Policy-governed AI that retrieves approved rules, applies constraints, and returns evidence-backed answers. |
-| **[CLARIS demo](https://claris.devayushrout.me)** | Provenance-aware clinical case investigation for HCC research. |
-| **[TenderMatch](https://github.com/ayushcodes13/tendermatch)** | Finds and ranks procurement opportunities for specialized suppliers. |
-| **[AURA](https://github.com/ayushcodes13/AURA)** | Voice-first, vision-assisted help for understanding objects and written information. |
-| **[MedWaste Guardian](https://github.com/ayushcodes13/MedWaste-Guardian)** | Multimodal prototype for biomedical waste classification and compliance guidance. |
-| **[Clara Agent Reliability](https://github.com/ayushcodes13/clara-agent-reliability)** | Demo pipeline for grounded claims, risk checks, review gates, and trace logging. |
+- 🧭 **[canon](https://github.com/ayushcodes13/canon)** — Policy-governed AI that retrieves approved rules, applies constraints, and returns evidence-backed answers.
+- 🗂️ **[claris](https://github.com/ayushcodes13/claris)** — Provenance-aware clinical case investigation for HCC research.
+- 🎯 **[tendermatch](https://github.com/ayushcodes13/tendermatch)** — Finds and ranks procurement opportunities for specialized suppliers.
+- 🗣️ **[aura](https://github.com/ayushcodes13/AURA)** — Voice-first, vision-assisted help for understanding objects and written information.
+- ♻️ **[medwaste guardian](https://github.com/ayushcodes13/MedWaste-Guardian)** — Multimodal prototype for biomedical waste classification and compliance guidance.
+- 🛡️ **[clara agent reliability](https://github.com/ayushcodes13/clara-agent-reliability)** — Demo pipeline for grounded claims, risk checks, review gates, and trace logging.
 
 ## ◉ AI for people
 
-- **AURA 2.0** · Exploring emotion-aware, multimodal assistance.
-- **A.L.L.Y.** · An experiment combining speech, language, and visual cues for emotionally aware interaction.
-- **[Ask Krishna](https://github.com/ayushcodes13/Ask-Krishna)** · A conversational guide to the Bhagavad Gita, built around retrieval and generated responses.
+- 🌱 **aura 2.0** — Exploring emotion-aware, multimodal assistance.
+- 💛 **a.l.l.y.** — An experiment combining speech, language, and visual cues for emotionally aware interaction.
+- 🦚 **[ask krishna](https://github.com/ayushcodes13/Ask-Krishna)** — A conversational guide to the Bhagavad Gita, built around retrieval and generated responses.
 
 ## ⌁ In the lab
 
 Experiments and works in progress with room to grow into stronger public demos.
 
-- **HYDRAN** · Reproducible brain MRI segmentation research with a PyTorch training setup and reported evaluation results.
-- **Industry Report Agent** · A multi-agent workflow for turning research into notes, charts, and a PDF report.
-- **OCR Benchmark** · Experiments comparing OCR and document extraction workflows.
-- **Parity** · Early work on reconciling messy business data into trusted decisions.
-- **Socratic-Bot** · An unfinished conversational project that needs a sharper demo.
+- 🧠 **[hydran](https://github.com/ayushcodes13/HYDRAN)** — Reproducible brain MRI segmentation research with a PyTorch training setup and reported evaluation results.
+- 🧾 **tender compliance engine** — Extracts tender requirements with source links for review and export.
+- 🔬 **oem intelligence** — Evidence-backed research and matching for scientific instrument opportunities.
+- 📰 **industry report agent** — A multi-agent workflow for turning research into notes, charts, and a PDF report.
+- 📄 **ocr benchmark** — Experiments comparing OCR and document extraction workflows.
+- 🔄 **parity** — Early work on reconciling messy business data into trusted decisions.
+- 💬 **socratic-bot** — An unfinished conversational project that needs a sharper demo.
 
 ## ⌘ Tools & experiments
 
-- **[Siri + n8n Assistant](https://github.com/ayushcodes13/siri-n8n-assistant)** · Connects Siri Shortcuts to email, calendar, and research workflows.
-- **[Gesture-controlled Virtual Mouse](https://github.com/ayushcodes13/gesture-controlled-virtual-mouse)** · A computer-vision interface controlled by hand gestures.
-- **[Machine Learning Practice](https://github.com/ayushcodes13/Machine-Learning-Practice)** · A collection of machine learning experiments and implementations.
-- **[TradeSync](https://github.com/ayushcodes13/TradeSync-ML-vs-Rule-Based-Trading-System)** · Compares rule-based trading signals with an XGBoost approach.
+- 🎙️ **[siri + n8n assistant](https://github.com/ayushcodes13/siri-n8n-assistant)** — Connects Siri Shortcuts to email, calendar, and research workflows.
+- 🖱️ **[gesture-controlled virtual mouse](https://github.com/ayushcodes13/gesture-controlled-virtual-mouse)** — A computer-vision interface controlled by hand gestures.
+- 📚 **[machine learning practice](https://github.com/ayushcodes13/Machine-Learning-Practice)** — A collection of machine learning experiments and implementations.
+- 📈 **[tradesync](https://github.com/ayushcodes13/TradeSync-ML-vs-Rule-Based-Trading-System)** — Compares rule-based trading signals with an XGBoost approach.
+- 🧰 **[issue-management](https://github.com/ayushcodes13/issue-management)** — Read-only workflows for Linear review and standup context.
 
 ## Contributions
 
 Selected merged contributions to open-source projects:
 
-| Repository | What it does | Contribution | Stars |
-|:--|:--|:--|:--:|
-| [WebClaw](https://github.com/0xMassi/webclaw) | Web extraction for LLMs and agents. | Clarified PDF empty-content behavior in [a docs PR](https://github.com/0xMassi/webclaw/pull/111). | [![stars](https://img.shields.io/github/stars/0xMassi/webclaw?style=flat-square&label=★)](https://github.com/0xMassi/webclaw) |
-| [AgentGlass](https://github.com/SirAllap/agentglass) | Dashboard for coding-agent activity, tokens, and tool calls. | Improved CI install behavior in [a PR](https://github.com/SirAllap/agentglass/pull/529). | [![stars](https://img.shields.io/github/stars/SirAllap/agentglass?style=flat-square&label=★)](https://github.com/SirAllap/agentglass) |
-| [AgentInspect](https://github.com/rajudandigam/agent-inspect) | Local evidence and trajectory debugging for TypeScript agents. | Added an anonymized case-study template in [a docs PR](https://github.com/rajudandigam/agent-inspect/pull/234). | [![stars](https://img.shields.io/github/stars/rajudandigam/agent-inspect?style=flat-square&label=★)](https://github.com/rajudandigam/agent-inspect) |
-| [commit-echo](https://github.com/404-PF/commit-echo) | Learns a developer’s commit style and suggests messages. | Fixed config updates overwriting the template path in [a PR](https://github.com/404-PF/commit-echo/pull/287). | [![stars](https://img.shields.io/github/stars/404-PF/commit-echo?style=flat-square&label=★)](https://github.com/404-PF/commit-echo) |
-| [TriageKit](https://github.com/zanni098/triagekit) | Generates GitHub issue templates. | Fixed generated issue configuration in [a PR](https://github.com/zanni098/triagekit/pull/27). | [![stars](https://img.shields.io/github/stars/zanni098/triagekit?style=flat-square&label=★)](https://github.com/zanni098/triagekit) |
-| [Retinue](https://github.com/Retinue-OS/retinue) | A compose-based personal-agent platform. | Corrected image update steps in [a docs PR](https://github.com/Retinue-OS/retinue/pull/99). | [![stars](https://img.shields.io/github/stars/Retinue-OS/retinue?style=flat-square&label=★)](https://github.com/Retinue-OS/retinue) |
+- 🛰️ **[agentglass](https://github.com/SirAllap/agentglass)** — Dashboard for coding-agent activity, tokens, and tool calls. Improved CI install behavior in [a PR](https://github.com/SirAllap/agentglass/pull/529). [![stars](https://img.shields.io/github/stars/SirAllap/agentglass?style=flat-square&label=★)](https://github.com/SirAllap/agentglass)
+- 🌐 **[webclaw](https://github.com/0xMassi/webclaw)** — Web extraction for LLMs and agents. Clarified PDF empty-content behavior in [a docs PR](https://github.com/0xMassi/webclaw/pull/111). [![stars](https://img.shields.io/github/stars/0xMassi/webclaw?style=flat-square&label=★)](https://github.com/0xMassi/webclaw)
+- 🔍 **[agent-inspect](https://github.com/rajudandigam/agent-inspect)** — Local evidence and trajectory debugging for TypeScript agents. Added an anonymized case-study template in [a docs PR](https://github.com/rajudandigam/agent-inspect/pull/234). [![stars](https://img.shields.io/github/stars/rajudandigam/agent-inspect?style=flat-square&label=★)](https://github.com/rajudandigam/agent-inspect)
+- ✍️ **[commit-echo](https://github.com/404-PF/commit-echo)** — Learns a developer's commit style and suggests messages. Fixed config updates overwriting the template path in [a PR](https://github.com/404-PF/commit-echo/pull/287). [![stars](https://img.shields.io/github/stars/404-PF/commit-echo?style=flat-square&label=★)](https://github.com/404-PF/commit-echo)
+- 🧩 **[triagekit](https://github.com/zanni098/triagekit)** — Generates GitHub issue templates. Fixed generated issue configuration in [a PR](https://github.com/zanni098/triagekit/pull/27). [![stars](https://img.shields.io/github/stars/zanni098/triagekit?style=flat-square&label=★)](https://github.com/zanni098/triagekit)
+- 🧭 **[retinue](https://github.com/Retinue-OS/retinue)** — A compose-based personal-agent platform. Corrected image update steps in [a docs PR](https://github.com/Retinue-OS/retinue/pull/99). [![stars](https://img.shields.io/github/stars/Retinue-OS/retinue?style=flat-square&label=★)](https://github.com/Retinue-OS/retinue)
 
-Currently in review: [Codanna](https://github.com/bartolli/codanna/pull/118) · [Firecrawl CLI](https://github.com/firecrawl/cli/pull/183) · [LlamaDeploy](https://github.com/run-llama/llama_deploy/pull/589)
+## Contributions at a glance
 
-## Contribution activity
+![GitHub contribution graph for ayushcodes13](https://ghchart.rshah.org/40916c/ayushcodes13)
 
-![GitHub contribution activity for ayushcodes13](https://github-readme-activity-graph.vercel.app/graph?username=ayushcodes13&theme=github-compact&hide_border=true&area=true)
+## Writing
 
----
+I write about:
 
-[Portfolio](https://devayushrout.me) · [LinkedIn](https://linkedin.com/in/ayush-rout) · [All repositories](https://github.com/ayushcodes13?tab=repositories)
+- retrieval systems
+- evaluation pipelines
+- grounding failures
+- orchestration tradeoffs
+- operational AI reliability
+
+→ [hashnode.com/@ayoozzzz](https://hashnode.com/@ayoozzzz)
+
+## Links
+
+Portfolio → [devayushrout.me](https://devayushrout.me)  
+LinkedIn → [linkedin.com/in/ayush-rout](https://linkedin.com/in/ayush-rout)  
+GitHub → [github.com/ayushcodes13](https://github.com/ayushcodes13)
+
+📬 [devayushrout.work@gmail.com](mailto:devayushrout.work@gmail.com)
