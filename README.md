@@ -12,18 +12,21 @@ I build AI systems that connect models to evidence, people, and real tasks.
 
 ## ✦ Selected work
 
+- 🧭 **[atlas · private repo](https://github.com/ayushcodes13/atlas)** — Synthetic-data dashboard prototype for exploring operational metrics. [Live presentation](https://atlas.devayushrout.me)
+- 🧰 **[lintel · private repo](https://github.com/ayushcodes13/lintel)** — Local-first linter that screens AI agent repositories for reliability signals and produces an evidence-linked report. [Live presentation](https://lintel.devayushrout.me)
+- 🛡️ **[agentic policy reliability · private repo](https://github.com/ayushcodes13/agentic-policy-reliability)** — Local demo of dated policy lookup, clause evidence, abstention, and human-review routing. [Live presentation](https://agentic-policy-reliability.devayushrout.me)
 - 🧭 **[canon](https://github.com/ayushcodes13/canon)** — Policy-governed AI that retrieves approved rules, applies constraints, and returns evidence-backed answers.
 - 🗂️ **[claris](https://github.com/ayushcodes13/claris)** — Provenance-aware clinical case investigation for HCC research.
 - 🎯 **[tendermatch](https://github.com/ayushcodes13/tendermatch)** — Finds and ranks procurement opportunities for specialized suppliers.
-- 🗣️ **[aura](https://github.com/ayushcodes13/AURA)** — Voice-first, vision-assisted help for understanding objects and written information.
+- 🗣️ **[aura](https://github.com/ayushcodes13/AURA)** — Voice-first, vision-assisted help for understanding objects and written information. [Live presentation](https://aura.devayushrout.me)
 - ♻️ **[medwaste guardian](https://github.com/ayushcodes13/MedWaste-Guardian)** — Multimodal prototype for biomedical waste classification and compliance guidance.
-- 🛡️ **[clara agent reliability](https://github.com/ayushcodes13/clara-agent-reliability)** — Demo pipeline for grounded claims, risk checks, review gates, and trace logging.
+- 🛡️ **[clara agent reliability](https://github.com/ayushcodes13/clara-agent-reliability)** — Demo pipeline for grounded claims, risk checks, review gates, and trace logging. [Live presentation](https://clara-agent-reliability.devayushrout.me)
 
 ## ◉ AI for people
 
 - 🌱 **aura 2.0** — Exploring emotion-aware, multimodal assistance.
 - 💛 **a.l.l.y.** — An experiment combining speech, language, and visual cues for emotionally aware interaction.
-- 🦚 **[ask krishna](https://github.com/ayushcodes13/Ask-Krishna)** — A conversational guide to the Bhagavad Gita, built around retrieval and generated responses.
+- 🦚 **[ask krishna](https://github.com/ayushcodes13/Ask-Krishna)** — A conversational guide to the Bhagavad Gita, built around retrieval and generated responses. [Live presentation](https://ask-krishna.devayushrout.me)
 
 ## ⌁ In the lab
 
@@ -40,7 +43,7 @@ Experiments and works in progress with room to grow into stronger public demos.
 ## ⌘ Tools & experiments
 
 - 🎙️ **[siri + n8n assistant](https://github.com/ayushcodes13/siri-n8n-assistant)** — Connects Siri Shortcuts to email, calendar, and research workflows.
-- 🖱️ **[gesture-controlled virtual mouse](https://github.com/ayushcodes13/gesture-controlled-virtual-mouse)** — A computer-vision interface controlled by hand gestures.
+- 🖱️ **[gesture-controlled virtual mouse](https://github.com/ayushcodes13/gesture-controlled-virtual-mouse)** — A computer-vision interface controlled by hand gestures. [Live presentation](https://gesture-controlled-virtual-mouse.devayushrout.me)
 - 📚 **[machine learning practice](https://github.com/ayushcodes13/Machine-Learning-Practice)** — A collection of machine learning experiments and implementations.
 - 📈 **[tradesync](https://github.com/ayushcodes13/TradeSync-ML-vs-Rule-Based-Trading-System)** — Compares rule-based trading signals with an XGBoost approach.
 - 🧰 **[issue-management](https://github.com/ayushcodes13/issue-management)** — Read-only workflows for Linear review and standup context.
