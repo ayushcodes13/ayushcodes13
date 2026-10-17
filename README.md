@@ -24,8 +24,10 @@ I build AI systems that connect models to evidence, people, and real tasks.
 
 ## ◉ AI for people
 
-- 🌱 **aura 2.0** — Exploring emotion-aware, multimodal assistance.
-- 💛 **a.l.l.y.** — An experiment combining speech, language, and visual cues for emotionally aware interaction.
+- 🌱 **[AURA 2.0 · private repo](https://github.com/ayushcodes13/AURA-2.0)** — Exploring consent-based, multimodal assistance with clear limits around mood and emotion inference.
+- 💛 **[Ally · private repo](https://github.com/ayushcodes13/Ally)** — An experiment combining speech, language, and visual cues for emotionally aware interaction.
+- 🩺 **[SwasthaSamvad · private repo](https://github.com/ayushcodes13/SwasthaSamvad)** — A source-grounded medical information prototype with human-review and safety boundaries.
+- 🤖 **[Baymax](https://github.com/ayushcodes13/Baymax)** — A fine-tuned language-model project with reproducibility and evaluation requirements documented in the repository.
 - 🦚 **[ask krishna](https://github.com/ayushcodes13/Ask-Krishna)** — A conversational guide to the Bhagavad Gita, built around retrieval and generated responses. [Live presentation](https://ask-krishna.devayushrout.me)
 
 ## ⌁ In the lab
@@ -33,12 +35,12 @@ I build AI systems that connect models to evidence, people, and real tasks.
 Experiments and works in progress with room to grow into stronger public demos.
 
 - 🧠 **[hydran](https://github.com/ayushcodes13/HYDRAN)** — Reproducible brain MRI segmentation research with a PyTorch training setup and reported evaluation results.
-- 🧾 **tender compliance engine** — Extracts tender requirements with source links for review and export.
-- 🔬 **oem intelligence** — Evidence-backed research and matching for scientific instrument opportunities.
-- 📰 **industry report agent** — A multi-agent workflow for turning research into notes, charts, and a PDF report.
-- 📄 **ocr benchmark** — Experiments comparing OCR and document extraction workflows.
-- 🔄 **parity** — Early work on reconciling messy business data into trusted decisions.
-- 💬 **socratic-bot** — An unfinished conversational project that needs a sharper demo.
+- 🧾 **[Tender Compliance Engine · private repo](https://github.com/ayushcodes13/tender-compliance-engine)** — Extracts tender requirements with source links for review and export.
+- 🎯 **[Tender Intelligence Engine · private repo](https://github.com/ayushcodes13/tender-intelligence-engine)** — Procurement intelligence workflows for discovering and assessing tenders.
+- 🔬 **[OEM Intelligence · private repo](https://github.com/ayushcodes13/OEM-Intelligence)** — Evidence-backed research and matching for scientific instrument opportunities.
+- 📄 **[OCR Benchmark · private repo](https://github.com/ayushcodes13/OCR-benchmark)** — Experiments comparing OCR and document extraction workflows.
+- 🔄 **[Parity · private repo](https://github.com/ayushcodes13/parity)** — Early work on reconciling messy business data into trusted decisions.
+- 💬 **[Socratic Bot · private repo](https://github.com/ayushcodes13/Socratic-Bot)** — A guided-learning chatbot prototype built around conversational problem solving.
 
 ## ⌘ Tools & experiments
 
