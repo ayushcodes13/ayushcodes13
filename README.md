@@ -14,17 +14,18 @@ I build AI systems that connect models to evidence, people, and real tasks.
 
 - 🧭 **[canon](https://github.com/ayushcodes13/canon)** — Policy-governed AI that retrieves approved rules, applies constraints, and returns evidence-backed answers.
 - 🗂️ **[claris](https://github.com/ayushcodes13/claris)** — Provenance-aware clinical case investigation for HCC research.
+- 🧾 **[Tender Compliance Engine](https://github.com/ayushcodes13/tender-compliance-engine)** — Extracts tender requirements with source links for review and export.
 - 🧭 **[atlas](https://github.com/ayushcodes13/atlas)** — Synthetic-data dashboard prototype for exploring operational metrics.
 - 🧰 **[lintel](https://github.com/ayushcodes13/lintel)** — Local-first linter that screens AI agent repositories for reliability signals and produces an evidence-linked report.
 - 🛡️ **[agentic policy reliability](https://github.com/ayushcodes13/agentic-policy-reliability)** — Local demo of dated policy lookup, clause evidence, abstention, and human-review routing.
 - 🎯 **[tendermatch](https://github.com/ayushcodes13/tendermatch)** — Finds and ranks procurement opportunities for specialized suppliers.
-- 🗣️ **[aura](https://github.com/ayushcodes13/AURA)** — Voice-first, vision-assisted help for understanding objects and written information.
 - ♻️ **[medwaste guardian](https://github.com/ayushcodes13/MedWaste-Guardian)** — Multimodal prototype for biomedical waste classification and compliance guidance.
 - 🛡️ **[clara agent reliability](https://github.com/ayushcodes13/clara-agent-reliability)** — Demo pipeline for grounded claims, risk checks, review gates, and trace logging.
 
 ## ◉ AI for people
 
 - 🌱 **[AURA 2.0 · private repo](https://github.com/ayushcodes13/AURA-2.0)** — Exploring consent-based, multimodal assistance with clear limits around mood and emotion inference.
+- 🗣️ **[aura](https://github.com/ayushcodes13/AURA)** — Voice-first, vision-assisted help for understanding objects and written information.
 - 💛 **[Ally · private repo](https://github.com/ayushcodes13/Ally)** — An experiment combining speech, language, and visual cues for emotionally aware interaction.
 - 🩺 **[SwasthaSamvad · private repo](https://github.com/ayushcodes13/SwasthaSamvad)** — A source-grounded medical information prototype with human-review and safety boundaries.
 - 🤖 **[Baymax](https://github.com/ayushcodes13/Baymax)** — A fine-tuned language-model project with reproducibility and evaluation requirements documented in the repository.
@@ -35,7 +36,6 @@ I build AI systems that connect models to evidence, people, and real tasks.
 Experiments and works in progress with room to grow into stronger public demos.
 
 - 🧠 **[hydran](https://github.com/ayushcodes13/HYDRAN)** — Reproducible brain MRI segmentation research with a PyTorch training setup and reported evaluation results.
-- 🧾 **[Tender Compliance Engine · private repo](https://github.com/ayushcodes13/tender-compliance-engine)** — Extracts tender requirements with source links for review and export.
 - 🎯 **[Tender Intelligence Engine · private repo](https://github.com/ayushcodes13/tender-intelligence-engine)** — Procurement intelligence workflows for discovering and assessing tenders.
 - 🔬 **[OEM Intelligence · private repo](https://github.com/ayushcodes13/OEM-Intelligence)** — Evidence-backed research and matching for scientific instrument opportunities.
 - 📄 **[OCR Benchmark · private repo](https://github.com/ayushcodes13/OCR-benchmark)** — Experiments comparing OCR and document extraction workflows.
