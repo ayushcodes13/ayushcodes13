@@ -19,7 +19,7 @@ I build AI systems that connect models to evidence, people, and real tasks.
 - 🧰 **[lintel](https://github.com/ayushcodes13/lintel)** — Local-first linter that screens AI agent repositories for reliability signals and produces an evidence-linked report.
 - 🛡️ **[agentic policy reliability](https://github.com/ayushcodes13/agentic-policy-reliability)** — Local demo of dated policy lookup, clause evidence, abstention, and human-review routing.
 - 🎯 **[tendermatch](https://github.com/ayushcodes13/tendermatch)** — Finds and ranks procurement opportunities for specialized suppliers.
-- ♻️ **[medwaste guardian](https://github.com/ayushcodes13/MedWaste-Guardian)** — Multimodal prototype for biomedical waste classification and compliance guidance.
+- ♻️ **[medwaste guardian](https://github.com/ayushcodes13/MedWaste-Guardian)** — Research prototype; its [static site](https://medwaste-guardian-site.vercel.app/) explains the project and previews images locally, without classifying waste or providing compliance or disposal guidance.
 - 🛡️ **[clara agent reliability](https://github.com/ayushcodes13/clara-agent-reliability)** — Demo pipeline for grounded claims, risk checks, review gates, and trace logging.
 
 ## ◉ AI for people
