@@ -36,7 +36,6 @@ I build AI systems that connect models to evidence, people, and real tasks.
 Experiments and works in progress with room to grow into stronger public demos.
 
 - 🧠 **[hydran](https://github.com/ayushcodes13/HYDRAN)** — Reproducible brain MRI segmentation research with a PyTorch training setup and reported evaluation results.
-- 🎯 **[Tender Intelligence Engine](https://github.com/ayushcodes13/tender-intelligence-engine)** — Procurement intelligence workflows for discovering and assessing tenders.
 - 🔬 **[OEM Intelligence](https://github.com/ayushcodes13/OEM-Intelligence)** — Evidence-backed research and matching for scientific instrument opportunities.
 - 📄 **[OCR Benchmark](https://github.com/ayushcodes13/OCR-benchmark)** — Experiments comparing OCR and document extraction workflows.
 - 🔄 **[Parity](https://github.com/ayushcodes13/parity)** — Early work on reconciling messy business data into trusted decisions.
