@@ -12,7 +12,7 @@ I build AI systems that connect models to evidence, people, and real tasks.
 
 ## ✦ Selected work
 
-- 🧭 **[Clausewise](https://github.com/ayushcodes13/Clausewise)** — Policy-governed AI that retrieves approved rules, applies constraints, and returns evidence-backed answers.
+- 🧭 **[Clausewise](https://github.com/ayushcodes13/clausewise)** — Policy-governed AI that retrieves approved rules, applies constraints, and returns evidence-backed answers.
 - 🗂️ **[claris](https://github.com/ayushcodes13/claris)** — Provenance-aware clinical case investigation for HCC research.
 - 🧾 **[Tender Compliance Engine](https://github.com/ayushcodes13/tender-compliance-engine)** — Extracts tender requirements with source links for review and export.
 - 🧭 **[atlas](https://github.com/ayushcodes13/atlas)** — Synthetic-data dashboard prototype for exploring operational metrics.
